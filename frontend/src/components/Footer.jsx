@@ -6,7 +6,7 @@ export function Footer() {
       <span>·</span>
       <a href="https://github.com/YvonLabs/ivar" target="_blank" rel="noreferrer">GitHub</a>
       <span>·</span>
-      <span>MIT License</span>
+      <span>AGPL-3.0 License</span>
     </footer>
   )
 }
