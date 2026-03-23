@@ -261,4 +261,4 @@ The sweep scheduler starts with the backend. No separate worker or cron job requ
 
 ## License
 
-MIT. Built by [YvonLabs](https://yvonlabs.github.io/).
+AGPL-3.0. Built by [YvonLabs](https://yvonlabs.github.io/).
